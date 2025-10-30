@@ -1,5 +1,5 @@
 <?php 
-namespace hal\ajaxmodal;
+namespace anteo\ajaxmodal;
 
 use Yii;
 use yii\bootstrap\Modal;

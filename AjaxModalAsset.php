@@ -1,11 +1,11 @@
 <?php
-namespace hal\ajaxmodal;
+namespace anteo\ajaxmodal;
 
 use yii\web\AssetBundle;
 
 class AjaxModalAsset extends AssetBundle
 {
-    public $sourcePath = '@hal/ajaxmodal/assets';
+    public $sourcePath = '@anteo/ajaxmodal/assets';
     
     public $css = [
     ];
