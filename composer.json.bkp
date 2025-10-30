@@ -1,0 +1,21 @@
+{
+    "name": "hal/yii2-ajaxmodal",
+    "description": "Ajax Bootstrap Modal for Yii Framework 2.0",
+    "keywords": ["yii2", "extension", "modal"],
+    "type": "yii2-extension",
+    "license": "BSD 3-Clause",
+    "authors": [
+        {
+            "name": "Marco Curatitoli",
+            "email": "marco.curatitoli@halservice.it",
+            "homepage": "http://www.halservice.it"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.9",
+        "yiisoft/yii2-bootstrap": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {"hal\\ajaxmodal\\": ""}
+    }
+}
