@@ -1,6 +1,6 @@
 Yii2 ajaxmodal
 ======================
-Allot extension
+Allot extension - Provided by Marco Curatitoli at HalService
 
 Installation
 ------------
